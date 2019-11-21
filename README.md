@@ -9,3 +9,6 @@
 3. Group the selectors where possible. 
 
 ![mockup-image](/image/mockup.png)
+
+----------------
+Just in case you lose the link: https://github.com/wi-fighters/36-uib-boxmodel-modelboxes-SimonSchoetz
