@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+}
+body {
+    text-align: center;
+    font-size: 2rem;
+    background-color: rgb(78, 52, 0);
+}
+
+.primary-box {
+    background-color: rgb(39, 39, 39);
+    color: rgb(250, 250, 250)
+}
+
+.secondary-box {
+    background-color: rgb(250, 250, 250);
+}
+
+.inside-box {
+    background-color: rgb(144, 238, 255);
+    padding: 0.2em;
+    margin: 1em 0em;
+}
+
+.secondary-box, .inside-box {
+    color: rgb(39, 39, 39);
+}
+
+.primary-box, .secondary-box {
+    padding: 3vh 0vh;
+    margin-bottom: 3vh;
+}
+
+h2 {
+    font-size: 4rem;
+}
